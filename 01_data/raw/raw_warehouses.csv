@@ -1,0 +1,13 @@
+warehouse_id,warehouse_name,country,city,state,address,postal_code,capacity_sqft,manager_name,phone,opened_date,created_at
+1,Nashville Central,United States,Nashville,Tennessee,5360 Mission Street,37240,157382,Meredith Kim,17882624578,2018-05-16,2025-12-24 20:51:07
+2,Madison North,United States,Madison,Wisconsin,1986 Industrial Boulevard,53785,194826,Marcus Simmons,14703178590,2024-10-08,2025-12-24 20:51:07
+3,Brooklyn South,United States,Brooklyn,New York,3003 Massachusetts Avenue,11225,280894,Liam Henry,19965383732,2015-07-31,2025-12-24 20:51:07
+4,Monticello East,United States,Monticello,Minnesota,7634 Bay Street,55585,481869,Carson Barnes,19391796313,2024-01-13,2025-12-24 20:51:07
+5,Gatineau Northeast West,Canada,Gatineau Northeast,Quebec,737 Church Street,J8R,446321,Raymond Munoz,11537460031,2015-05-29,2025-12-24 20:51:08
+6,Goulds Metro,Canada,Goulds,Newfoundland and Labrador,524 Memorial Drive,A1S,260479,Ava Clayton,18700748592,2017-12-18,2025-12-24 20:51:08
+7,Plößberg Regional,Germany,Plößberg,Bayern,7817 Humboldtstraße,95703,241676,Anna Günther,491067631472,2019-09-18,2025-12-24 20:51:08
+8,Framfield Hub,United Kingdom,Framfield,England,4063 The Strand,TN22,438595,Fergus Wallace,447903297672,2021-03-21,2025-12-24 20:51:08
+9,Nelia Distribution Center,Australia,Nelia,Queensland,2772 Murray Street Hobart,4816,278507,Riley Turner,614835534959,2020-10-26,2025-12-24 20:51:08
+10,Tokiwadai Fulfillment Center,Japan,Tokiwadai,Toyama Ken,953 中山道 (Nakasendō),930-0983,138717,Yuichi Sawada,814725698740,2018-10-01,2025-12-24 20:51:08
+11,Uru Central,Brazil,Uru,Sao Paulo,6046 Avenida Brasil,16650-000,279927,Marcelo Wolff,557205773275,2021-06-27,2025-12-24 20:51:08
+12,Villas de Montecassino North,Mexico,Villas de Montecassino,Aguascalientes,133 Calle Aquiles Serdán,20903,475303,Celia Cruz,522868878075,2023-02-10,2025-12-24 20:51:08

@@ -1,0 +1,16 @@
+supplier_id,supplier_name,contact_person,email,phone,country,city,address,postal_code,supplier_type,rating
+1,Valdez Industries,Bobby Valdez,bobby.valdez@valdezsupply.com,16633348972,United States,Pueblo,5671 Ridge Road,81005,Wholesaler,3.5
+2,Mo Manufacturing,Yuxuan Mo,yuxuan.mo@mosupply.com,869489823715,China,Yunmeng County,7229 槐树路 (Huaishu Lu),432500,Wholesaler,3.6
+3,Haas Corp,Walter Haas,walter.haas@haassupply.com,493779032406,Germany,Frankfurt am Main,9968 Südstraße,60439,Manufacturer,4.1
+4,Sakurai Supplies,Himari Sakurai,himari.sakurai@sakuraisupply.com,819425627396,Japan,Miyatsubakishinden,8237 言問通り (Kototoi-dōri),946-0205,Distributor,4.2
+5,Mae Trading Co,Vernon Mae,vernon.mae@maesupply.com,823686154594,South Korea,화도면,1295 독립문로 (Dongnimmun-ro),23059,Manufacturer,3.3
+6,Fiore International,Filomena Fiore,filomena.fiore@fioresupply.com,398279314325,Italy,Castelletto Stura,7843 Via Francesco Crispi,12040,Manufacturer,4.3
+7,Dumont Wholesale,Myriam Dumont,myriam.dumont@dumontsupply.com,338893736700,France,Lauraët,5668 Rue Victor Hugo,32330,Manufacturer,4.1
+8,Marsh Industries,Nicola Marsh,nicola.marsh@marshsupply.com,444488434865,United Kingdom,Church End,8776 Riverside Road,NW10,Importer,4.4
+9,Shinde Manufacturing,Radhika Shinde,radhika.shinde@shindesupply.com,915384860427,India,Dokra,3483 Homi Bhabha Road,496223,Wholesaler,4.7
+10,Contreras Corp,Wendy Contreras,wendy.contreras@contrerassupply.com,523542537541,Mexico,La Mezquitera,1483 Calle Miguel Hidalgo y Costilla,63534,Distributor,3.7
+11,Gomez Supplies,Kelly Gomez,kelly.gomez@gomezsupply.com,16379515265,United States,York,5153 Church Street,17405,Manufacturer,4
+12,Qin Trading Co,Zihan Qin,zihan.qin@qinsupply.com,865405812202,China,Dunhuang,5051 七一路 (Qiyi Lu),736200,Wholesaler,3
+13,Sommer International,Ursula Sommer,ursula.sommer@sommersupply.com,495454356942,Germany,Hamburg,3955 Bachstraße,22459,Importer,4.4
+14,Harada Wholesale,Hana Harada,hana.harada@haradasupply.com,815976029872,Japan,Urushijo,5207 新宿通り (Shinjuku-dōri),300-4216,Distributor,4
+15,Pyo Industries,Yeon-ji Pyo,yeon-ji.pyo@pyosupply.com,827753058510,South Korea,부산진구,8350 테헤란로 (Teheran-ro),47200,Importer,4.9

@@ -1,0 +1,151 @@
+product_id,sku,product_name,category,subcategory,brand,supplier_id,unit_cost,retail_price,weight_kg,dimensions,reorder_point,lead_time_days,created_at
+1,CLO-PRE-0001,PremiumChoice Jacket,Clothing,Kids Apparel,PremiumChoice,5,122.51,271.37,3.34,30x44x54,75,14,2025-12-24 20:51:34
+2,ELE-BEA-0002,BeautyGlow Monitor,Electronics,Audio,BeautyGlow,9,36.93,70.88,8.63,46x9x51,65,17,2025-12-24 20:51:34
+3,HOM-PRE-0003,PremiumChoice Rug,Home Goods,Furniture,PremiumChoice,4,80.25,164.79,6.26,54x14x38,60,26,2025-12-24 20:51:34
+4,TOY-BEA-0004,BeautyGlow Ball,Toys,Dolls,BeautyGlow,7,93.87,191.5,2.96,12x20x54,86,25,2025-12-24 20:51:34
+5,SPO-BEA-0005,BeautyGlow Backpack,Sports,Team Sports,BeautyGlow,4,34.39,87.66,8.63,45x14x24,85,9,2025-12-24 20:51:34
+6,BEA-MOD-0006,ModernLiving Perfume,Beauty,Tools,ModernLiving,15,203.35,461.37,5.07,54x35x27,97,10,2025-12-24 20:51:34
+7,CLO-ACT-0007,ActiveLife Jacket,Clothing,Accessories,ActiveLife,2,100.31,161.62,4.24,20x37x25,25,15,2025-12-24 20:51:34
+8,ELE-COM-0008,ComfortPlus Monitor,Electronics,Audio,ComfortPlus,12,135.29,350.28,3.72,44x20x40,49,14,2025-12-24 20:51:34
+9,HOM-TEC-0009,TechPro Rug,Home Goods,Kitchenware,TechPro,12,39.64,89.85,5,23x6x29,83,20,2025-12-24 20:51:34
+10,TOY-ACT-0010,ActiveLife Board Game,Toys,Educational,ActiveLife,2,189.9,524.84,0.21,34x54x27,96,17,2025-12-24 20:51:34
+11,SPO-BEA-0011,BeautyGlow Backpack,Sports,Water Sports,BeautyGlow,10,182.22,440.79,1.91,8x33x11,112,31,2025-12-24 20:51:34
+12,BEA-PRE-0012,PremiumChoice Shampoo,Beauty,Makeup,PremiumChoice,15,106.18,199.05,7.44,6x33x17,105,13,2025-12-24 20:51:34
+13,CLO-TEC-0013,TechPro Dress,Clothing,Accessories,TechPro,9,39.25,87.4,5.36,9x10x35,75,32,2025-12-24 20:51:34
+14,ELE-TEC-0014,TechPro Camera,Electronics,Gaming,TechPro,6,28.55,46.37,0.28,34x33x50,22,36,2025-12-24 20:51:34
+15,HOM-HOM-0015,HomeStyle Rug,Home Goods,Storage,HomeStyle,9,71.77,180.2,9.27,25x44x24,68,23,2025-12-24 20:51:34
+16,TOY-COM-0016,ComfortPlus Car,Toys,Educational,ComfortPlus,5,86.25,187.72,5.67,40x11x39,107,31,2025-12-24 20:51:34
+17,SPO-MOD-0017,ModernLiving Yoga Mat,Sports,Winter Sports,ModernLiving,6,170.51,275.65,2.19,18x13x31,65,30,2025-12-24 20:51:34
+18,BEA-ACT-0018,ActiveLife Moisturizer,Beauty,Tools,ActiveLife,10,161.51,379.87,5.36,51x9x22,28,28,2025-12-24 20:51:34
+19,CLO-ACT-0019,ActiveLife Dress,Clothing,Men's Apparel,ActiveLife,3,73.2,205.14,4.12,30x22x53,97,14,2025-12-24 20:51:34
+20,ELE-PRE-0020,PremiumChoice Speaker,Electronics,Audio,PremiumChoice,12,75.49,192.67,5.56,45x24x14,58,15,2025-12-24 20:51:34
+21,HOM-SPO-0021,SportElite Pillow,Home Goods,Storage,SportElite,7,93.75,155.78,2.79,12x43x15,110,28,2025-12-24 20:51:34
+22,TOY-HOM-0022,HomeStyle Building Set,Toys,Board Games,HomeStyle,3,132.94,273.26,0.46,46x5x32,40,12,2025-12-24 20:51:34
+23,SPO-HOM-0023,HomeStyle Bicycle,Sports,Team Sports,HomeStyle,9,19.42,54.92,6.06,43x52x11,58,22,2025-12-24 20:51:34
+24,BEA-SPO-0024,SportElite Nail Polish,Beauty,Tools,SportElite,5,104.97,232.79,5.61,10x30x45,93,26,2025-12-24 20:51:34
+25,CLO-COM-0025,ComfortPlus Jacket,Clothing,Women's Apparel,ComfortPlus,9,183.13,464.67,4.68,18x31x50,81,24,2025-12-24 20:51:34
+26,ELE-SPO-0026,SportElite Keyboard,Electronics,Gaming,SportElite,5,194.36,445.7,4.68,22x41x47,75,20,2025-12-24 20:51:34
+27,HOM-KID-0027,KidZone Lamp,Home Goods,Kitchenware,KidZone,7,80.75,200.94,2.77,26x7x25,51,29,2025-12-24 20:51:34
+28,TOY-KID-0028,KidZone Building Set,Toys,Board Games,KidZone,2,143.41,288.73,6.31,7x35x17,57,22,2025-12-24 20:51:34
+29,SPO-KID-0029,KidZone Basketball,Sports,Outdoor Recreation,KidZone,3,189.44,425.14,3.44,19x21x25,76,18,2025-12-24 20:51:34
+30,BEA-FAS-0030,FashionMax Hair Dryer,Beauty,Makeup,FashionMax,9,71.34,183.75,7.22,38x29x23,22,14,2025-12-24 20:51:34
+31,CLO-TEC-0031,TechPro Jacket,Clothing,Kids Apparel,TechPro,2,200.33,442.48,6.63,24x40x36,30,16,2025-12-24 20:51:34
+32,ELE-TEC-0032,TechPro Keyboard,Electronics,Mobile Devices,TechPro,4,203.37,506.55,4.31,27x8x47,112,21,2025-12-24 20:51:34
+33,HOM-HOM-0033,HomeStyle Mirror,Home Goods,Furniture,HomeStyle,10,163.64,414.38,9.62,30x20x39,58,27,2025-12-24 20:51:34
+34,TOY-BEA-0034,BeautyGlow Ball,Toys,Outdoor,BeautyGlow,3,13.97,27.33,0.47,39x39x45,37,25,2025-12-24 20:51:34
+35,SPO-BEA-0035,BeautyGlow Running Shoes,Sports,Team Sports,BeautyGlow,13,65.04,154.1,7.38,51x40x12,61,31,2025-12-24 20:51:34
+36,BEA-COM-0036,ComfortPlus Face Mask,Beauty,Skincare,ComfortPlus,9,28.41,51.52,7.38,10x46x34,74,9,2025-12-24 20:51:34
+37,CLO-BEA-0037,BeautyGlow Hat,Clothing,Men's Apparel,BeautyGlow,15,95.84,145.33,9.86,26x7x19,34,20,2025-12-24 20:51:34
+38,ELE-ACT-0038,ActiveLife Laptop,Electronics,Computers,ActiveLife,1,105.26,240.13,9.42,32x15x18,56,31,2025-12-24 20:51:34
+39,HOM-COM-0039,ComfortPlus Vase,Home Goods,Decor,ComfortPlus,11,92.24,236.54,4.59,27x26x15,64,21,2025-12-24 20:51:34
+40,TOY-MOD-0040,ModernLiving Puzzle,Toys,Educational,ModernLiving,15,86.86,218.91,9.74,15x12x23,81,12,2025-12-24 20:51:34
+41,SPO-SPO-0041,SportElite Dumbbell,Sports,Team Sports,SportElite,10,185.43,487.92,0.36,45x51x39,47,13,2025-12-24 20:51:34
+42,BEA-TEC-0042,TechPro Moisturizer,Beauty,Skincare,TechPro,2,101.85,289.79,2.13,7x28x37,49,28,2025-12-24 20:51:34
+43,CLO-SPO-0043,SportElite Socks,Clothing,Shoes,SportElite,1,147.28,387.96,7.18,14x23x48,42,22,2025-12-24 20:51:34
+44,ELE-COM-0044,ComfortPlus Monitor,Electronics,Mobile Devices,ComfortPlus,10,57.96,160.23,8.58,11x29x47,31,28,2025-12-24 20:51:34
+45,HOM-FAS-0045,FashionMax Lamp,Home Goods,Furniture,FashionMax,9,8.15,18.78,6.16,34x51x35,48,8,2025-12-24 20:51:34
+46,TOY-PRE-0046,PremiumChoice Plush Toy,Toys,Action Figures,PremiumChoice,14,190.65,369.94,1.35,36x10x41,112,33,2025-12-24 20:51:34
+47,SPO-ACT-0047,ActiveLife Basketball,Sports,Winter Sports,ActiveLife,4,85.41,249.36,1.64,17x22x25,42,12,2025-12-24 20:51:34
+48,BEA-BEA-0048,BeautyGlow Hair Dryer,Beauty,Skincare,BeautyGlow,13,115.72,330.28,9.4,19x7x17,110,22,2025-12-24 20:51:34
+49,CLO-COM-0049,ComfortPlus Hat,Clothing,Shoes,ComfortPlus,1,179.96,277.76,6.71,27x41x21,25,8,2025-12-24 20:51:34
+50,ELE-PRE-0050,PremiumChoice Speaker,Electronics,Audio,PremiumChoice,14,22.92,49.6,7.11,54x20x50,97,34,2025-12-24 20:51:34
+51,HOM-PRE-0051,PremiumChoice Chair,Home Goods,Kitchenware,PremiumChoice,10,45.16,75.14,4.52,29x35x7,60,11,2025-12-24 20:51:34
+52,TOY-PRE-0052,PremiumChoice Board Game,Toys,Outdoor,PremiumChoice,11,68.42,118.79,4.61,17x41x34,49,9,2025-12-24 20:51:34
+53,SPO-COM-0053,ComfortPlus Yoga Mat,Sports,Water Sports,ComfortPlus,1,116.25,227.55,0.53,37x24x14,91,27,2025-12-24 20:51:34
+54,BEA-FAS-0054,FashionMax Nail Polish,Beauty,Fragrances,FashionMax,14,83.51,224.8,3.88,31x24x22,101,24,2025-12-24 20:51:34
+55,CLO-HOM-0055,HomeStyle Jeans,Clothing,Women's Apparel,HomeStyle,5,102.93,175.5,9.04,41x21x23,42,24,2025-12-24 20:51:34
+56,ELE-SPO-0056,SportElite Headphones,Electronics,Computers,SportElite,7,92.09,141.38,5.89,13x47x52,99,24,2025-12-24 20:51:34
+57,HOM-SPO-0057,SportElite Chair,Home Goods,Furniture,SportElite,14,86.92,169.37,6.29,45x30x22,102,30,2025-12-24 20:51:34
+58,TOY-FAS-0058,FashionMax Car,Toys,Dolls,FashionMax,6,190.91,437.59,6.64,50x45x20,111,13,2025-12-24 20:51:34
+59,SPO-BEA-0059,BeautyGlow Dumbbell,Sports,Team Sports,BeautyGlow,9,35.27,54.43,4.27,9x15x5,37,8,2025-12-24 20:51:34
+60,BEA-ACT-0060,ActiveLife Nail Polish,Beauty,Haircare,ActiveLife,6,85.7,143.86,9,43x37x30,25,31,2025-12-24 20:51:34
+61,CLO-BEA-0061,BeautyGlow Dress,Clothing,Accessories,BeautyGlow,13,111.29,189.04,7.52,51x38x36,31,25,2025-12-24 20:51:34
+62,ELE-MOD-0062,ModernLiving Camera,Electronics,Mobile Devices,ModernLiving,4,9.16,16.27,2.79,54x35x52,30,22,2025-12-24 20:51:34
+63,HOM-MOD-0063,ModernLiving Pillow,Home Goods,Decor,ModernLiving,7,101.08,157.23,9.81,10x21x32,30,10,2025-12-24 20:51:34
+64,TOY-FAS-0064,FashionMax Plush Toy,Toys,Educational,FashionMax,7,143.96,353.16,2.41,18x10x39,34,23,2025-12-24 20:51:34
+65,SPO-KID-0065,KidZone Basketball,Sports,Outdoor Recreation,KidZone,7,66.2,124.62,8.54,7x22x45,55,27,2025-12-24 20:51:34
+66,BEA-TEC-0066,TechPro Perfume,Beauty,Haircare,TechPro,13,48.03,82.16,10.09,23x48x42,73,19,2025-12-24 20:51:34
+67,CLO-FAS-0067,FashionMax Socks,Clothing,Women's Apparel,FashionMax,6,107.65,175.88,3.35,51x51x21,107,14,2025-12-24 20:51:34
+68,ELE-ACT-0068,ActiveLife Laptop,Electronics,Cameras,ActiveLife,3,25.6,66.75,3.28,9x36x11,36,15,2025-12-24 20:51:34
+69,HOM-MOD-0069,ModernLiving Mirror,Home Goods,Storage,ModernLiving,11,116.56,288.22,3.05,27x9x13,45,30,2025-12-24 20:51:34
+70,TOY-TEC-0070,TechPro Ball,Toys,Dolls,TechPro,15,94.71,283.91,1.16,9x12x35,90,30,2025-12-24 20:51:34
+71,SPO-KID-0071,KidZone Tennis Racket,Sports,Water Sports,KidZone,7,169.43,417.01,1.13,28x10x39,70,30,2025-12-24 20:51:34
+72,BEA-FAS-0072,FashionMax Face Mask,Beauty,Skincare,FashionMax,15,183.53,352.35,5.22,7x21x37,53,9,2025-12-24 20:51:34
+73,CLO-MOD-0073,ModernLiving Socks,Clothing,Shoes,ModernLiving,3,90.83,167.78,7.36,33x42x30,99,16,2025-12-24 20:51:34
+74,ELE-TEC-0074,TechPro Camera,Electronics,Mobile Devices,TechPro,10,114.2,182.73,3.26,34x53x10,44,34,2025-12-24 20:51:34
+75,HOM-HOM-0075,HomeStyle Mirror,Home Goods,Decor,HomeStyle,11,183.68,399.25,2.49,6x38x11,61,32,2025-12-24 20:51:34
+76,TOY-BEA-0076,BeautyGlow Doll,Toys,Action Figures,BeautyGlow,15,8.83,19.83,3.51,6x39x40,52,7,2025-12-24 20:51:34
+77,SPO-TEC-0077,TechPro Bicycle,Sports,Team Sports,TechPro,12,194.42,393.08,6.17,30x52x51,61,17,2025-12-24 20:51:34
+78,BEA-PRE-0078,PremiumChoice Moisturizer,Beauty,Skincare,PremiumChoice,13,94.86,257.47,1.16,27x22x5,64,30,2025-12-24 20:51:34
+79,CLO-HOM-0079,HomeStyle Shirt,Clothing,Kids Apparel,HomeStyle,4,21.43,42.36,6.75,42x7x17,80,24,2025-12-24 20:51:34
+80,ELE-PRE-0080,PremiumChoice Headphones,Electronics,Audio,PremiumChoice,8,198.64,387.75,0.64,41x48x13,30,24,2025-12-24 20:51:34
+81,HOM-BEA-0081,BeautyGlow Mirror,Home Goods,Storage,BeautyGlow,11,199.62,473.45,1.15,10x50x7,66,27,2025-12-24 20:51:34
+82,TOY-ACT-0082,ActiveLife Doll,Toys,Board Games,ActiveLife,7,138.16,226.78,0.87,9x53x41,37,24,2025-12-24 20:51:34
+83,SPO-SPO-0083,SportElite Running Shoes,Sports,Water Sports,SportElite,9,41,111.16,0.25,44x21x9,115,15,2025-12-24 20:51:34
+84,BEA-KID-0084,KidZone Lipstick,Beauty,Makeup,KidZone,10,92.86,244.5,0.15,17x11x7,88,13,2025-12-24 20:51:34
+85,CLO-HOM-0085,HomeStyle Dress,Clothing,Kids Apparel,HomeStyle,9,173.36,442.86,1.92,33x54x16,108,22,2025-12-24 20:51:34
+86,ELE-COM-0086,ComfortPlus Laptop,Electronics,Mobile Devices,ComfortPlus,15,133.33,345.37,3.31,38x52x29,25,31,2025-12-24 20:51:34
+87,HOM-PRE-0087,PremiumChoice Rug,Home Goods,Storage,PremiumChoice,6,99.95,297.63,2.61,44x15x46,93,9,2025-12-24 20:51:34
+88,TOY-SPO-0088,SportElite Board Game,Toys,Board Games,SportElite,4,44.59,125.18,4.43,54x19x42,102,13,2025-12-24 20:51:34
+89,SPO-MOD-0089,ModernLiving Bicycle,Sports,Water Sports,ModernLiving,4,41.11,96.2,0.12,6x20x10,35,9,2025-12-24 20:51:34
+90,BEA-KID-0090,KidZone Lipstick,Beauty,Haircare,KidZone,5,151.79,372.24,4.94,51x43x6,27,17,2025-12-24 20:51:34
+91,CLO-KID-0091,KidZone Jacket,Clothing,Women's Apparel,KidZone,5,19.33,31.82,10.07,47x53x5,105,25,2025-12-24 20:51:34
+92,ELE-ACT-0092,ActiveLife Keyboard,Electronics,Audio,ActiveLife,13,112.95,253.23,1.12,49x31x36,72,14,2025-12-24 20:51:34
+93,HOM-TEC-0093,TechPro Lamp,Home Goods,Decor,TechPro,12,44.87,73.08,4.77,39x51x51,61,16,2025-12-24 20:51:34
+94,TOY-ACT-0094,ActiveLife Board Game,Toys,Action Figures,ActiveLife,12,35.08,74.91,0.22,8x54x42,71,14,2025-12-24 20:51:34
+95,SPO-KID-0095,KidZone Water Bottle,Sports,Outdoor Recreation,KidZone,11,106.11,286.88,4.85,16x25x44,70,9,2025-12-24 20:51:34
+96,BEA-ACT-0096,ActiveLife Lipstick,Beauty,Haircare,ActiveLife,6,145.22,229.91,0.24,13x48x39,91,7,2025-12-24 20:51:34
+97,CLO-ACT-0097,ActiveLife Pants,Clothing,Women's Apparel,ActiveLife,1,186.8,366.3,9.91,35x16x47,40,16,2025-12-24 20:51:34
+98,ELE-FAS-0098,FashionMax Speaker,Electronics,Gaming,FashionMax,14,65.76,138.65,9.6,32x36x30,57,30,2025-12-24 20:51:34
+99,HOM-HOM-0099,HomeStyle Rug,Home Goods,Decor,HomeStyle,4,187.76,486.54,9.86,46x54x29,23,19,2025-12-24 20:51:34
+100,TOY-BEA-0100,BeautyGlow Board Game,Toys,Action Figures,BeautyGlow,15,157.92,259.5,9.67,18x13x50,51,10,2025-12-24 20:51:34
+101,SPO-SPO-0101,SportElite Water Bottle,Sports,Water Sports,SportElite,6,131.8,237.82,5.1,26x15x47,103,13,2025-12-24 20:51:34
+102,BEA-MOD-0102,ModernLiving Nail Polish,Beauty,Haircare,ModernLiving,13,27.41,49.61,8.02,51x22x37,68,31,2025-12-24 20:51:34
+103,CLO-SPO-0103,SportElite Jacket,Clothing,Women's Apparel,SportElite,14,88.14,262.55,8.54,10x38x25,29,35,2025-12-24 20:51:34
+104,ELE-HOM-0104,HomeStyle Monitor,Electronics,Mobile Devices,HomeStyle,15,37.65,111.24,8.42,20x26x37,90,30,2025-12-24 20:51:34
+105,HOM-SPO-0105,SportElite Table,Home Goods,Storage,SportElite,1,76.39,197.09,6.6,24x48x10,43,36,2025-12-24 20:51:34
+106,TOY-COM-0106,ComfortPlus Plush Toy,Toys,Educational,ComfortPlus,3,160.83,314.1,7.48,32x30x20,77,11,2025-12-24 20:51:34
+107,SPO-FAS-0107,FashionMax Tennis Racket,Sports,Team Sports,FashionMax,4,16.43,47.98,3.12,54x30x20,58,9,2025-12-24 20:51:34
+108,BEA-COM-0108,ComfortPlus Hair Dryer,Beauty,Tools,ComfortPlus,8,35.08,88.49,1.61,40x11x34,82,23,2025-12-24 20:51:34
+109,CLO-BEA-0109,BeautyGlow Pants,Clothing,Women's Apparel,BeautyGlow,11,164.51,418.04,5.27,18x24x10,115,22,2025-12-24 20:51:34
+110,ELE-KID-0110,KidZone Tablet,Electronics,Gaming,KidZone,11,74.12,117.83,3.97,54x12x7,82,36,2025-12-24 20:51:34
+111,HOM-COM-0111,ComfortPlus Lamp,Home Goods,Storage,ComfortPlus,13,26.88,59.63,1.78,28x52x37,45,9,2025-12-24 20:51:34
+112,TOY-SPO-0112,SportElite Puzzle,Toys,Board Games,SportElite,15,114.63,337.36,1.25,13x33x51,29,14,2025-12-24 20:51:34
+113,SPO-FAS-0113,FashionMax Yoga Mat,Sports,Fitness,FashionMax,9,69.26,159.6,2.08,22x13x54,63,26,2025-12-24 20:51:34
+114,BEA-PRE-0114,PremiumChoice Nail Polish,Beauty,Fragrances,PremiumChoice,8,105.82,161.23,6.37,50x13x26,61,21,2025-12-24 20:51:34
+115,CLO-ACT-0115,ActiveLife Pants,Clothing,Kids Apparel,ActiveLife,2,119.09,253.1,8.62,9x18x35,96,13,2025-12-24 20:51:34
+116,ELE-COM-0116,ComfortPlus Monitor,Electronics,Mobile Devices,ComfortPlus,15,70.48,147.28,2.17,47x30x23,33,10,2025-12-24 20:51:34
+117,HOM-ACT-0117,ActiveLife Vase,Home Goods,Kitchenware,ActiveLife,14,19.95,35.4,9.64,12x9x15,99,31,2025-12-24 20:51:34
+118,TOY-TEC-0118,TechPro Building Set,Toys,Board Games,TechPro,11,160.94,342.01,2.16,8x31x27,77,12,2025-12-24 20:51:34
+119,SPO-TEC-0119,TechPro Dumbbell,Sports,Water Sports,TechPro,9,69.72,156.59,1.15,18x7x45,36,32,2025-12-24 20:51:34
+120,BEA-SPO-0120,SportElite Nail Polish,Beauty,Haircare,SportElite,12,185.26,398.45,9.83,24x47x37,21,10,2025-12-24 20:51:34
+121,CLO-HOM-0121,HomeStyle Jeans,Clothing,Kids Apparel,HomeStyle,10,27.57,71.56,7.92,26x24x48,102,19,2025-12-24 20:51:34
+122,ELE-SPO-0122,SportElite Monitor,Electronics,Computers,SportElite,3,131.99,312.37,6.59,8x39x46,98,33,2025-12-24 20:51:34
+123,HOM-HOM-0123,HomeStyle Lamp,Home Goods,Kitchenware,HomeStyle,5,43.25,105.8,4.92,39x42x9,111,26,2025-12-24 20:51:34
+124,TOY-PRE-0124,PremiumChoice Building Set,Toys,Dolls,PremiumChoice,12,27.62,78.44,8.64,33x21x14,102,25,2025-12-24 20:51:34
+125,SPO-SPO-0125,SportElite Backpack,Sports,Outdoor Recreation,SportElite,10,60.57,170.74,9.53,25x39x19,67,30,2025-12-24 20:51:34
+126,BEA-TEC-0126,TechPro Nail Polish,Beauty,Makeup,TechPro,15,109.74,286.8,6.93,40x6x5,110,30,2025-12-24 20:51:34
+127,CLO-SPO-0127,SportElite Shirt,Clothing,Women's Apparel,SportElite,8,54.15,115.38,4.3,7x18x11,57,18,2025-12-24 20:51:34
+128,ELE-MOD-0128,ModernLiving Headphones,Electronics,Cameras,ModernLiving,10,132.7,368.73,9.19,40x32x33,77,17,2025-12-24 20:51:34
+129,HOM-TEC-0129,TechPro Mirror,Home Goods,Storage,TechPro,3,58.21,133.05,6.79,22x47x43,69,18,2025-12-24 20:51:34
+130,TOY-KID-0130,KidZone Puzzle,Toys,Board Games,KidZone,15,162.71,397.97,4.61,15x17x49,35,12,2025-12-24 20:51:34
+131,SPO-ACT-0131,ActiveLife Running Shoes,Sports,Fitness,ActiveLife,4,41.37,110.73,2.38,14x28x52,97,12,2025-12-24 20:51:34
+132,BEA-KID-0132,KidZone Shampoo,Beauty,Tools,KidZone,8,95.71,281.25,7.28,16x51x51,97,27,2025-12-24 20:51:34
+133,CLO-KID-0133,KidZone Sweater,Clothing,Accessories,KidZone,11,160.85,330.48,4.99,30x47x29,26,19,2025-12-24 20:51:34
+134,ELE-ACT-0134,ActiveLife Laptop,Electronics,Mobile Devices,ActiveLife,12,197.1,559.06,2.17,25x53x19,95,22,2025-12-24 20:51:34
+135,HOM-TEC-0135,TechPro Lamp,Home Goods,Furniture,TechPro,1,148.15,392.64,4.82,41x28x50,24,9,2025-12-24 20:51:34
+136,TOY-SPO-0136,SportElite Plush Toy,Toys,Action Figures,SportElite,6,193.11,519.54,1.69,48x25x27,37,7,2025-12-24 20:51:34
+137,SPO-ACT-0137,ActiveLife Yoga Mat,Sports,Winter Sports,ActiveLife,9,50.71,141.31,2.28,26x47x51,28,36,2025-12-24 20:51:34
+138,BEA-MOD-0138,ModernLiving Shampoo,Beauty,Skincare,ModernLiving,15,120.4,311.49,8.56,18x32x53,58,34,2025-12-24 20:51:34
+139,CLO-SPO-0139,SportElite Socks,Clothing,Men's Apparel,SportElite,6,15.68,42.59,3.78,54x51x39,84,29,2025-12-24 20:51:34
+140,ELE-HOM-0140,HomeStyle Headphones,Electronics,Computers,HomeStyle,9,139.25,373.15,0.34,32x51x30,88,25,2025-12-24 20:51:34
+141,HOM-TEC-0141,TechPro Pillow,Home Goods,Storage,TechPro,7,189.32,313.05,9.17,15x32x6,109,26,2025-12-24 20:51:34
+142,TOY-MOD-0142,ModernLiving Board Game,Toys,Educational,ModernLiving,10,203.98,523.19,9.63,34x45x13,69,31,2025-12-24 20:51:34
+143,SPO-ACT-0143,ActiveLife Running Shoes,Sports,Winter Sports,ActiveLife,13,97.48,250.88,7.12,25x16x33,45,9,2025-12-24 20:51:34
+144,BEA-PRE-0144,PremiumChoice Perfume,Beauty,Tools,PremiumChoice,5,153.5,266.65,1.42,39x43x47,115,9,2025-12-24 20:51:34
+145,CLO-HOM-0145,HomeStyle Sweater,Clothing,Shoes,HomeStyle,11,58.28,147.74,2.35,19x46x49,102,20,2025-12-24 20:51:34
+146,ELE-MOD-0146,ModernLiving Headphones,Electronics,Computers,ModernLiving,11,30.27,58.22,5.62,33x34x15,97,19,2025-12-24 20:51:34
+147,HOM-KID-0147,KidZone Chair,Home Goods,Decor,KidZone,15,26.24,49.28,7.06,43x53x50,84,13,2025-12-24 20:51:34
+148,TOY-HOM-0148,HomeStyle Board Game,Toys,Dolls,HomeStyle,8,191.26,504.75,6.19,32x21x51,68,27,2025-12-24 20:51:34
+149,SPO-MOD-0149,ModernLiving Yoga Mat,Sports,Fitness,ModernLiving,12,103.56,305.78,3.13,54x43x31,74,17,2025-12-24 20:51:34
+150,BEA-FAS-0150,FashionMax Nail Polish,Beauty,Skincare,FashionMax,11,133.77,312.27,2.75,6x6x15,45,16,2025-12-24 20:51:34

@@ -1,0 +1,151 @@
+store_id,store_name,store_type,country,city,state,address,postal_code,warehouse_id,square_footage,manager_name,phone,opened_date,created_at
+1,Atlanta Mall,Superstore,United States,Atlanta,Georgia,2650 Queen Street,30301,2,9922,Xavier Carlson,13848501718,2020-04-28,2025-12-24 20:51:17
+2,Prince County Outlet,Mall,Canada,Prince County,Prince Edward Island,2240 Woodbine Avenue,C0B,7,23248,Tyler Stewart,19156843884,2024-01-02,2025-12-24 20:51:17
+3,Bredbury Mall,Mall,United Kingdom,Bredbury,England,1385 Kensington High Street,SK6,8,23328,Lauren Griffiths,446599772650,2019-12-30,2025-12-24 20:51:17
+4,Hausen am Bussen Standard,Flagship,Germany,Hausen am Bussen,Baden-Württemberg,9858 Stuttgarter Straße,89597,1,41160,Martha Horn,492905522129,2024-05-02,2025-12-24 20:51:17
+5,Issel Mall,Express,France,Issel,Occitanie,294 Boulevard Pasteur,11400,7,20262,Christine Fleury,337134233943,2024-03-14,2025-12-24 20:51:17
+6,Bulga Forest Standard,Standard,Australia,Bulga Forest,New South Wales,4097 Charles Street,2429,6,42996,Karen Jackson,613245614535,2022-10-30,2025-12-24 20:51:17
+7,Motomachi Superstore,Outlet,Japan,Motomachi,Nagano Ken,6928 伊勢佐木町通り (Isezakichō-dōri),390-0803,1,34073,Sho Nakamura,811649394123,2021-08-21,2025-12-24 20:51:17
+8,Terezinha Standard,Standard,Brazil,Terezinha,Pernambuco,4201 Rua Padre Anchieta,55305-000,12,20954,Alexandro Mayer,553836094608,2018-10-11,2025-12-24 20:51:17
+9,El Jarazo Superstore,Outlet,Mexico,El Jarazo,Sonora,3221 Avenida Federalismo,84328,10,5939,Raquel Vázquez,521579736868,2018-08-07,2025-12-24 20:51:17
+10,Rosola Standard,Outlet,Italy,Rosola,Emilia-Romagna,3616 Via Michelangelo,41059,3,14014,Vittorio Paris,391333284263,2020-08-07,2025-12-24 20:51:17
+11,Bures Mall,Standard,Spain,Bures,Galicia,4249 Calle de Mendez Núñez,15984,4,35064,Andrés Aguilar,345970545380,2025-03-26,2025-12-24 20:51:17
+12,Schraard Mall,Flagship,Netherlands,Schraard,Friesland,614 Weesperstraat,8746,2,44114,Ans Klaassen,319541941522,2024-04-06,2025-12-24 20:51:17
+13,Flushing Flagship,Superstore,United States,Flushing,New York,5880 Valley View Drive,11355,11,23911,Trinity Gonzalez,18425345566,2019-11-28,2025-12-24 20:51:17
+14,Hamilton Express,Outlet,Canada,Hamilton,Ontario,6158 Main Street,L8V,5,11473,Patricia May,15762801507,2020-07-23,2025-12-24 20:51:17
+15,Sewerby Mall,Standard,United Kingdom,Sewerby,England,2469 George Street,YO15,5,11905,Charles Marshall,445663409012,2017-09-29,2025-12-24 20:51:17
+16,Dettingen an der Iller Superstore,Mall,Germany,Dettingen an der Iller,Baden-Württemberg,8212 Mozartstraße,88451,9,24813,Theresia Kuhn,494599684537,2025-04-25,2025-12-24 20:51:17
+17,Lassigny Express,Flagship,France,Lassigny,Hauts-de-France,4692 Rue des Petits Champs,60310,1,31023,Sophie Aubry,333904029802,2023-01-11,2025-12-24 20:51:17
+18,Coolalinga Express,Superstore,Australia,Coolalinga,Northern Territory,4897 Hackney Road,0835,8,29886,Oscar Price,611353363714,2024-12-24,2025-12-24 20:51:17
+19,Heitacho Express,Outlet,Japan,Heitacho,Shimane Ken,2599 なにわ筋 (Naniwa-suji),691-8601,3,5528,Masaki Matsumoto,812261976082,2019-08-06,2025-12-24 20:51:17
+20,Goianinha Flagship,Mall,Brazil,Goianinha,Rio Grande do Norte,312 Rua Senador Feijó,59173-000,7,30532,Esther Andrade,556325662762,2023-03-22,2025-12-24 20:51:17
+21,El Bajío Superstore,Superstore,Mexico,El Bajío,Durango,6434 Avenida Progreso,35630,4,22082,Soledad Ramos,524768287192,2024-02-06,2025-12-24 20:51:17
+22,Mezzogoro Mall,Superstore,Italy,Mezzogoro,Emilia-Romagna,9271 Via Vittorio Alfieri,44021,9,34152,Lino De Luca,399114022337,2021-09-26,2025-12-24 20:51:17
+23,"Mazo, El Standard",Standard,Spain,"Mazo, El",Asturias,2186 Calle de Segovia,33778,2,39509,Carolina Moya,348777097418,2022-12-13,2025-12-24 20:51:17
+24,Schiedam Outlet,Flagship,Netherlands,Schiedam,South Holland,9710 Damrak,3119,9,21329,Matthijs Kramer,319323053555,2020-06-16,2025-12-24 20:51:17
+25,Flint Superstore,Superstore,United States,Flint,Michigan,4228 Poplar Street,48555,5,27972,Rose Bishop,18648113264,2022-05-16,2025-12-24 20:51:17
+26,New Westminster Southwest Outlet,Outlet,Canada,New Westminster Southwest,British Columbia,4773 Elgin Street,V3M,10,8633,Dorothy Pearson,16212530590,2023-08-07,2025-12-24 20:51:17
+27,Swavesey Outlet,Superstore,United Kingdom,Swavesey,England,8918 Victoria Street,CB23,4,32280,Pippa Sutherland,441537427846,2020-10-23,2025-12-24 20:51:17
+28,Hamburg Hausbruch Standard,Superstore,Germany,Hamburg Hausbruch,Hamburg,9350 Münsterplatz,21147,4,19785,Markus Möller,498837347684,2023-06-19,2025-12-24 20:51:17
+29,Mervent Express,Outlet,France,Mervent,Pays de la Loire,544 Rue Saint-André des Arts,85200,5,30049,Yvon Moreau,339701711715,2021-11-06,2025-12-24 20:51:17
+30,Mungalli Outlet,Outlet,Australia,Mungalli,Queensland,3616 Sturt Street,4886,10,12284,India Simpson,611481739820,2018-12-26,2025-12-24 20:51:17
+31,Fukakusa Terauchicho Superstore,Superstore,Japan,Fukakusa Terauchicho,Kyoto Fu,6466 堺筋 (Sakaisuji),612-0033,6,11927,Heisuke Tanaka,814432103447,2020-03-17,2025-12-24 20:51:17
+32,Marcelino Ramos Mall,Standard,Brazil,Marcelino Ramos,Rio Grande do Sul,4475 Avenida Atlântica,99800-000,1,29343,Francisco Silveira,557316283886,2020-04-03,2025-12-24 20:51:17
+33,Guadalupe Standard,Flagship,Mexico,Guadalupe,Tabasco,691 Calle Ignacio Allende,86570,10,40266,Mariana Aguilar,525657528700,2019-03-25,2025-12-24 20:51:17
+34,Montalto Dora Superstore,Express,Italy,Montalto Dora,Piemonte,8109 Via Gabriele D'Annunzio,10016,8,12092,Nino Rossi,398285287443,2024-10-29,2025-12-24 20:51:17
+35,Cantiquin Superstore,Superstore,Spain,Cantiquin,Asturias,5755 Paseo de la Castellana,33610,11,32538,Iker Bravo,343559340958,2019-11-06,2025-12-24 20:51:17
+36,St.-Jacobiparochie Express,Standard,Netherlands,St.-Jacobiparochie,Friesland,4588 Spuistraat,9076,6,18295,Clasina Bruin,317804308865,2022-12-02,2025-12-24 20:51:17
+37,Colorado Springs Express,Mall,United States,Colorado Springs,Colorado,1718 Ranch Road,80935,8,38467,Bailey Jensen,11993371600,2022-09-02,2025-12-24 20:51:17
+38,Minto Outlet,Standard,Canada,Minto,New Brunswick,9623 Elizabeth Avenue,E4B,5,24726,Michelle Morin,14850117354,2021-04-07,2025-12-24 20:51:17
+39,Thurlestone Standard,Outlet,United Kingdom,Thurlestone,England,1195 Cambridge Road,TQ7,7,42746,Owen Reynolds,441698236281,2022-02-02,2025-12-24 20:51:17
+40,Berlin Express,Express,Germany,Berlin,Berlin,102 Händelstraße,14059,6,43705,Hans Jung,499163302733,2023-06-23,2025-12-24 20:51:17
+41,Taussat-les-Bains Superstore,Outlet,France,Taussat-les-Bains,Nouvelle-Aquitaine,8920 Rue Oberkampf,33148,11,35255,Augustine Dumas,339798215557,2021-11-28,2025-12-24 20:51:17
+42,Boothendarra Superstore,Standard,Australia,Boothendarra,Western Australia,9677 Carrington Street,6521,12,18742,Elizabeth Palmer,616482112219,2022-06-08,2025-12-24 20:51:17
+43,Miyazu Flagship,Mall,Japan,Miyazu,Kyoto Fu,502 馬車道 (Bashamichi),626-0000,8,11100,Yuki Koyama,817569681207,2019-04-25,2025-12-24 20:51:17
+44,União do Sul Superstore,Standard,Brazil,União do Sul,Mato Grosso,4456 Avenida Angélica,78543-000,8,16300,Aldo Ferreira,552996136759,2021-07-11,2025-12-24 20:51:17
+45,Yocupicio Flagship,Superstore,Mexico,Yocupicio,Sonora,968 Calle Veracruz,85249,10,20303,Eloisa Cortés,526485450156,2023-08-11,2025-12-24 20:51:17
+46,Mestre Mall,Outlet,Italy,Mestre,Veneto,194 Piazza Garibaldi,30175,1,9458,Dora Mastroianni,394623363272,2020-08-01,2025-12-24 20:51:17
+47,Trebeluger Express,Express,Spain,Trebeluger,Baleares,9709 Calle de Bilbao,07720,2,5230,Remedios Parra,344240778100,2020-06-19,2025-12-24 20:51:17
+48,Noordwijk Flagship,Flagship,Netherlands,Noordwijk,South Holland,876 Nassaukade,2203,6,43698,Pieternella de Graaf,318640191491,2022-01-26,2025-12-24 20:51:17
+49,Houston Outlet,Flagship,United States,Houston,Texas,8976 Lafayette Street,77005,8,37021,Margaret Castro,18822663596,2018-11-25,2025-12-24 20:51:17
+50,Pickering North Standard,Superstore,Canada,Pickering North,Ontario,8184 176th Street,L1Y,7,40539,Judith Tyler,11631129913,2020-10-02,2025-12-24 20:51:17
+51,Easton Royal Outlet,Express,United Kingdom,Easton Royal,England,5313 Park Lane,SN9,4,14787,Rachael Dawson,447985452712,2021-12-12,2025-12-24 20:51:17
+52,Altmittweida Outlet,Flagship,Germany,Altmittweida,Sachsen,3862 Schlossgarten,09648,12,14968,Lars Heinrich,496991043866,2017-09-06,2025-12-24 20:51:17
+53,Nalliers Express,Superstore,France,Nalliers,Pays de la Loire,1814 Rue de Fleurus,85370,2,30291,Olivier Fontaine,336948293914,2019-05-18,2025-12-24 20:51:17
+54,North Yeoval Superstore,Standard,Australia,North Yeoval,New South Wales,6245 Jetty Road,2868,5,20893,Molly Allen,613667378299,2025-05-03,2025-12-24 20:51:17
+55,Ryogoku Superstore,Flagship,Japan,Ryogoku,Tokyo To,8370 道頓堀通り (Dōtonbori-dōri),130-8553,4,10139,Naoki Ota,813913032614,2025-04-10,2025-12-24 20:51:17
+56,Tomazina Flagship,Superstore,Brazil,Tomazina,Parana,8552 Avenida Paraná,84935-000,3,44509,Antonella Azevedo,553390725916,2020-02-19,2025-12-24 20:51:17
+57,Montebello Standard,Flagship,Mexico,Montebello,Guanajuato,1866 Avenida Xola,37680,3,11446,Rafael Flores,521986647663,2021-12-28,2025-12-24 20:51:17
+58,Ardea Flagship,Express,Italy,Ardea,Lazio,9148 Corso Cavour,00040,10,15504,Ivan Morrone,399233645291,2023-12-27,2025-12-24 20:51:17
+59,Espinosa De Cervera Superstore,Outlet,Spain,Espinosa De Cervera,Castilla - Leon,2333 Calle de Valencia,09610,11,12514,Alba Santos,341617507015,2019-10-13,2025-12-24 20:51:17
+60,Kerkrade Outlet,Flagship,Netherlands,Kerkrade,Limburg,7397 Jacob van Lennepkade,6468,2,34485,Zeger van der Berg,319392978581,2018-06-22,2025-12-24 20:51:17
+61,Denver Superstore,Superstore,United States,Denver,Colorado,4206 Ann Street,80228,11,35483,Anna Guerrero,13051821255,2023-10-13,2025-12-24 20:51:17
+62,Sainte-Agathe-des-Monts Superstore,Express,Canada,Sainte-Agathe-des-Monts,Quebec,3594 Spadina Avenue,J8C,3,6631,Lawrence Boone,18222208540,2021-06-30,2025-12-24 20:51:17
+63,Bridge of Cally Express,Flagship,United Kingdom,Bridge of Cally,Scotland,385 Cardiff Road,PH10,7,41866,Megan Armstrong,448528189402,2018-11-01,2025-12-24 20:51:17
+64,Schwanebeck Flagship,Superstore,Germany,Schwanebeck,Brandenburg,131 Frankfurter Straße,14806,10,39649,Sabine Klein,491321285753,2021-08-15,2025-12-24 20:51:17
+65,Auneau Express,Outlet,France,Auneau,Centre-Val de Loire,7450 Rue Saint-Honoré,28700,5,32502,Étienne Perez,335996320184,2020-06-11,2025-12-24 20:51:17
+66,Surrey Downs Superstore,Express,Australia,Surrey Downs,South Australia,5187 Ipswich Road,5126,10,7682,Catherine Holmes,613640202018,2024-12-13,2025-12-24 20:51:17
+67,Ketsuenji Express,Flagship,Japan,Ketsuenji,Chiba Ken,9488 四条通 (Shijō-dōri),270-1343,4,11492,Jin Morishita,814661175748,2020-03-20,2025-12-24 20:51:17
+68,Mairiporã Outlet,Outlet,Brazil,Mairiporã,Sao Paulo,3400 Avenida Governador Agamenon Magalhães,07600-000,5,25340,Cristina Pereira,555902691940,2021-02-08,2025-12-24 20:51:17
+69,Fresnos Condominio 4 Superstore,Outlet,Mexico,Fresnos Condominio 4,Querétaro,4732 Calle Puebla,76159,6,30670,Alma Acosta,528728882382,2019-12-24,2025-12-24 20:51:17
+70,Montegiorgio Mall,Express,Italy,Montegiorgio,Marche,7376 Borgo Ognissanti,63833,6,5968,Clelia Belloni,394381088955,2018-11-08,2025-12-24 20:51:17
+71,Vuelta De Rodan Flagship,Outlet,Spain,Vuelta De Rodan,Aragon,2037 Calle de Granada,50709,4,30265,Rosa Nieto,349399504670,2019-04-27,2025-12-24 20:51:17
+72,Tilburg Express,Standard,Netherlands,Tilburg,North Brabant,6068 Nassaulaan,5021,12,33948,Fedde van Beek,312545788082,2020-06-24,2025-12-24 20:51:17
+73,Gainesville Express,Outlet,United States,Gainesville,Florida,5005 West Street,32627,9,40767,Josiah Sanchez,11850430477,2020-12-14,2025-12-24 20:51:17
+74,Thunder Bay West Standard,Flagship,Canada,Thunder Bay West,Ontario,1335 Memorial Drive,P7K,9,29916,Richard Padilla,13766409853,2022-05-29,2025-12-24 20:51:17
+75,Wickham Market Mall,Standard,United Kingdom,Wickham Market,England,5059 Dickens Road,IP13,9,37347,Willow Fuller,449662302488,2018-11-30,2025-12-24 20:51:17
+76,Hepberg Standard,Mall,Germany,Hepberg,Bayern,4806 Mühlstraße,85120,12,9244,Dorothea Haas,494645253676,2022-04-14,2025-12-24 20:51:17
+77,Saint-Romain-de-Monpazier Flagship,Outlet,France,Saint-Romain-de-Monpazier,Nouvelle-Aquitaine,8613 Avenue de Choisy,24540,2,25923,Patrice Caron,337312978714,2019-04-02,2025-12-24 20:51:17
+78,Springdale Heights Mall,Flagship,Australia,Springdale Heights,New South Wales,4270 Grattan Street,2641,2,19691,Lucy Hudson,615296766768,2022-08-27,2025-12-24 20:51:17
+79,Netsugi Superstore,Mall,Japan,Netsugi,Fukushima Ken,9464 千日前通 (Sennichimae-dōri),969-3103,10,19898,Sachiko Koga,815102645656,2021-04-08,2025-12-24 20:51:17
+80,Jaguaribara Outlet,Flagship,Brazil,Jaguaribara,Ceara,3812 Rua das Flores,63490-000,3,10316,Felipe Rosa,557748836129,2018-11-19,2025-12-24 20:51:17
+81,El Ciprés Superstore,Superstore,Mexico,El Ciprés,Chiapas,7004 Avenida Plan de Ayala,30910,3,38109,Agustín Peña,523260479209,2019-06-30,2025-12-24 20:51:17
+82,Capodimonte Flagship,Flagship,Italy,Capodimonte,Lazio,1208 Via Ciro Menotti,01010,7,7259,Nunzia Bruno,397700367354,2018-08-08,2025-12-24 20:51:17
+83,Santa Maria Superstore,Flagship,Spain,Santa Maria,Asturias,4364 Calle de Quevedo,33736,11,38934,Ana Ramos,348140774990,2019-10-25,2025-12-24 20:51:17
+84,Jouswier Standard,Superstore,Netherlands,Jouswier,Friesland,6065 Buitenhof,9124,7,33098,Wilhelmus Jonker,315466650324,2023-05-27,2025-12-24 20:51:17
+85,Des Moines Standard,Mall,United States,Des Moines,Iowa,6825 Old Town Road,50362,5,24128,Axel Harper,17403557010,2023-12-23,2025-12-24 20:51:17
+86,Beauharnois Superstore,Standard,Canada,Beauharnois,Quebec,8494 Major Street,J6N,10,37737,Alexandre Alvarado,19254763124,2018-12-25,2025-12-24 20:51:17
+87,Ford Standard,Mall,United Kingdom,Ford,England,2015 Haymarket,SY5,6,14645,Kieran Fleming,445047229232,2018-02-21,2025-12-24 20:51:17
+88,Unterroth Superstore,Superstore,Germany,Unterroth,Bayern,5407 Am Berg,89299,4,22409,Franziska Thomas,494060931982,2021-12-15,2025-12-24 20:51:17
+89,Montpellier Superstore,Flagship,France,Montpellier,Occitanie,4339 Boulevard Exelmans,34093 CEDEX 5,5,29817,Dominique Bertrand,334571568059,2020-06-13,2025-12-24 20:51:17
+90,Kancoona Superstore,Mall,Australia,Kancoona,Victoria,3290 Botanic Road,3691,9,39422,Ryder Foster,612864523336,2018-02-06,2025-12-24 20:51:17
+91,Funehikimachi Ashizawa Flagship,Flagship,Japan,Funehikimachi Ashizawa,Fukushima Ken,8249 玉川通り (Tamagawa-dōri),963-4316,2,38895,Kyoko Yamamoto,819853167479,2022-06-03,2025-12-24 20:51:17
+92,Indiavaí Outlet,Mall,Brazil,Indiavaí,Mato Grosso,9728 Rua do Comércio,78295-000,2,44491,Anderson Kramer,559047095328,2019-02-24,2025-12-24 20:51:17
+93,Villas San Felipe Superstore,Flagship,Mexico,Villas San Felipe,Puebla,1784 Calle Justo Sierra,72040,1,21079,Nancy Montes,522871703092,2023-09-29,2025-12-24 20:51:17
+94,Piattoni Superstore,Express,Italy,Piattoni,Marche,2269 Via Guglielmo Marconi,63082,8,44736,Sandro Stella,394347320422,2022-12-02,2025-12-24 20:51:17
+95,Busmayor Mall,Mall,Spain,Busmayor,Castilla - Leon,5045 Calle del Carmen,24521,7,7774,Almudena Soler,344728080432,2021-12-28,2025-12-24 20:51:17
+96,Nieuwleusen Express,Outlet,Netherlands,Nieuwleusen,Overijssel,7005 Nieuwmarkt,7711,3,17726,Peter Peters,312518636921,2018-07-24,2025-12-24 20:51:17
+97,Canton Superstore,Mall,United States,Canton,Ohio,678 Dogwood Drive,44720,6,14504,Carol Reid,18700006384,2019-05-01,2025-12-24 20:51:17
+98,Vancouver Express,Superstore,Canada,Vancouver,British Columbia,4030 Wellington Street,V5N,11,15699,James Griffith,14399462459,2024-03-21,2025-12-24 20:51:17
+99,Tadley Superstore,Standard,United Kingdom,Tadley,England,5635 Whitehall,RG26,8,24333,Seren Taylor,441818682399,2022-08-01,2025-12-24 20:51:17
+100,Bad Harzburg Bündheim/Schlewecke Outlet,Express,Germany,Bad Harzburg Bündheim/Schlewecke,Niedersachsen,941 Regensburger Straße,38667,10,27935,Gustav Walter,497941782582,2019-03-30,2025-12-24 20:51:17
+101,Lahage Flagship,Mall,France,Lahage,Occitanie,1699 Avenue du Maine,31370,1,38329,Cyril Rousseau,334846955681,2020-12-04,2025-12-24 20:51:17
+102,Coralie Flagship,Outlet,Australia,Coralie,Queensland,5816 Oxford Street,4871,5,28396,Atticus White,616724751614,2023-09-23,2025-12-24 20:51:17
+103,Goyochiato Superstore,Mall,Japan,Goyochiato,Fukushima Ken,4449 五番街 (Go Bangai),969-6114,1,32567,Kaori Nozaki,811233683655,2020-10-15,2025-12-24 20:51:17
+104,Carangola Mall,Mall,Brazil,Carangola,Minas Gerais,3382 Rua General Câmara,36800-000,9,13245,Lourenço Farias,553428781422,2017-10-16,2025-12-24 20:51:17
+105,Campo Menonita Chaví Número Uno Outlet,Express,Mexico,Campo Menonita Chaví Número Uno,Campeche,4935 Calle 16 de Septiembre,24863,11,43693,Nayeli Martínez,529028851238,2021-07-06,2025-12-24 20:51:17
+106,Nureci Mall,Flagship,Italy,Nureci,Sardegna,8075 Via Leopardi,09080,9,25290,Manlio Moretti,398901946831,2019-11-07,2025-12-24 20:51:17
+107,Revenga Outlet,Outlet,Spain,Revenga,Castilla - Leon,3349 Calle de la Cava Alta,09228,4,41992,Beatriz Vicente,347645908416,2018-09-27,2025-12-24 20:51:17
+108,Rotterdam Superstore,Express,Netherlands,Rotterdam,South Holland,3534 Mauritskade,3082,1,26207,Pieter van de Ven,311918019989,2023-08-17,2025-12-24 20:51:17
+109,Atlanta Mall,Express,United States,Atlanta,Georgia,901 Terrace Avenue,30340,6,32397,Amber Garcia,14389114030,2019-05-17,2025-12-24 20:51:17
+110,London Superstore,Mall,Canada,London,Ontario,8205 Greenwood Avenue,N5X,1,7484,Brooke Elliott,17027360891,2021-06-27,2025-12-24 20:51:17
+111,Darowen Express,Express,United Kingdom,Darowen,Wales,7375 The Rise,SY20,2,36763,Elsie Smith,444697977347,2025-03-14,2025-12-24 20:51:17
+112,Arpsdorf Superstore,Express,Germany,Arpsdorf,Schleswig-Holstein,1358 Alexanderplatz,24634,9,23813,Tom Jäger,499107340623,2023-02-05,2025-12-24 20:51:17
+113,Le Kremlin-Bicêtre Superstore,Standard,France,Le Kremlin-Bicêtre,Île-de-France,3746 Boulevard des Italiens,94272 CEDEX,9,20795,Martine Arnaud,335577268084,2018-01-21,2025-12-24 20:51:17
+114,Prahran East Mall,Outlet,Australia,Prahran East,Victoria,2378 Boundary Street,3181,10,27535,Jade Hall,615111724871,2022-12-05,2025-12-24 20:51:17
+115,Omiya Mall,Flagship,Japan,Omiya,Yamagata Ken,6635 外苑東通り (Gaien Higashi-dōri),998-0822,5,24814,Daisuke Uchida,814773553232,2023-04-06,2025-12-24 20:51:17
+116,Rio dos Bois Express,Outlet,Brazil,Rio dos Bois,Tocantins,1326 Avenida Presidente Vargas,77655-000,5,8484,Henrique Pires,551680612725,2018-07-06,2025-12-24 20:51:17
+117,La Rejoyada Mall,Superstore,Mexico,La Rejoyada,Yucatán,2046 Calle Bravo,97307,3,43184,Valeria León,524283365594,2021-04-21,2025-12-24 20:51:17
+118,Vighignolo Flagship,Mall,Italy,Vighignolo,Lombardia,1737 Via Marconi,20019,3,33862,Silvia Zambon,396811048994,2022-04-19,2025-12-24 20:51:17
+119,Cazalegas Outlet,Mall,Spain,Cazalegas,Castilla - La Mancha,4383 Calle de Velázquez,45683,2,35469,Marcos Moreno,342031262826,2018-09-09,2025-12-24 20:51:17
+120,Bussum Express,Outlet,Netherlands,Bussum,North Holland,2382 Valkenburgerstraat,1404,12,31347,Isa van Leeuwen,319412631849,2018-01-20,2025-12-24 20:51:17
+121,Minneapolis Outlet,Express,United States,Minneapolis,Minnesota,7788 River Road,55480,12,7979,Sebastian Wallace,16833137716,2024-03-16,2025-12-24 20:51:17
+122,Perth-Andover Flagship,Standard,Canada,Perth-Andover,New Brunswick,194 King Street,E7H,10,11146,Christopher Bailey,16682810763,2022-11-14,2025-12-24 20:51:17
+123,St Mary Hill Mall,Outlet,United Kingdom,St Mary Hill,Wales,1881 Warwick Road,CF35,5,42810,Eleanor Hunt,447810190913,2020-12-05,2025-12-24 20:51:17
+124,Dittweiler Outlet,Flagship,Germany,Dittweiler,Rheinland-Pfalz,580 Sternstraße,66903,10,10069,Karla Voigt,493205860683,2019-01-10,2025-12-24 20:51:17
+125,Saint-Vincent-de-Paul Superstore,Superstore,France,Saint-Vincent-de-Paul,Nouvelle-Aquitaine,4994 Rue Saint-Dominique,33440,1,6958,Michaël Morel,335811226800,2023-03-12,2025-12-24 20:51:17
+126,Browns Mountain Standard,Express,Australia,Browns Mountain,New South Wales,1467 Roe Street,2540,7,26958,Thomas Davis,617047211938,2017-10-24,2025-12-24 20:51:17
+127,Oyakawa Mall,Superstore,Japan,Oyakawa,Akita Ken,5260 久屋大通 (Hisaya Ō-dōri),015-0035,10,25121,Kanako Miyake,812129215878,2024-08-10,2025-12-24 20:51:17
+128,Milhã Outlet,Outlet,Brazil,Milhã,Ceara,8411 Praça Mauá,63635-000,1,6355,Nathalia Ribeiro,552257312033,2022-02-06,2025-12-24 20:51:17
+129,Tlacotengo II Standard,Superstore,Mexico,Tlacotengo II,Veracruz de Ignacio de la Llave,5068 Avenida Tepeyac,94472,4,40437,Emilia Ruiz,527595970081,2017-10-13,2025-12-24 20:51:17
+130,Galdo Di Lauria Outlet,Outlet,Italy,Galdo Di Lauria,Basilicata,4163 Piazza Maggiore,85044,3,11846,Rocco Valente,397086112029,2022-05-16,2025-12-24 20:51:17
+131,Feas Mall,Flagship,Spain,Feas,Galicia,9700 Calle de Ramón y Cajal,32523,11,39947,Benito Ibáñez,345926525647,2021-06-17,2025-12-24 20:51:17
+132,Ten Boer Superstore,Superstore,Netherlands,Ten Boer,Groningen,1270 Blaak,9791,10,11948,Tijn Postma,311149570386,2023-04-12,2025-12-24 20:51:17
+133,Richmond Standard,Express,United States,Richmond,Virginia,8016 Coolidge Avenue,23260,12,11655,Calvin Gilbert,12276780645,2021-04-02,2025-12-24 20:51:17
+134,Sainte-Foy West Superstore,Outlet,Canada,Sainte-Foy West,Quebec,4354 Rue Saint-Jacques,G1X,11,41976,Adam Rowe,16855809701,2021-06-27,2025-12-24 20:51:17
+135,Little Wenlock Superstore,Outlet,United Kingdom,Little Wenlock,England,8113 Farm Road,TF6,5,5573,Bryony Dixon,446984600026,2023-05-31,2025-12-24 20:51:17
+136,Minden Mall,Mall,Germany,Minden,Nordrhein-Westfalen,9215 Bayreuther Straße,32423,10,32489,Steffen Martin,494489955052,2021-01-27,2025-12-24 20:51:17
+137,Auquainville Express,Standard,France,Auquainville,Normandie,8526 Quai des Grands Augustins,14140,9,7373,Jade Vidal,337118026276,2018-10-05,2025-12-24 20:51:17
+138,Bundanoon Outlet,Standard,Australia,Bundanoon,New South Wales,9857 Macquarie Street,2578,8,28637,Aria Clarke,619817900339,2018-04-03,2025-12-24 20:51:17
+139,Rubeshibecho Asahinishi Standard,Outlet,Japan,Rubeshibecho Asahinishi,Hokkaido,9147 中山道 (Nakasendō),091-0027,3,33486,Suzuko Yano,811882085862,2021-12-24,2025-12-24 20:51:17
+140,Correntes Flagship,Express,Brazil,Correntes,Pernambuco,3079 Rua Estados Unidos,55315-000,12,43828,Maria Clara Santana,552888409620,2017-12-18,2025-12-24 20:51:17
+141,Magisterial Mall,Outlet,Mexico,Magisterial,Veracruz de Ignacio de la Llave,626 Avenida Constitución,95276,7,38573,Leopoldo Lara,527787707347,2019-04-19,2025-12-24 20:51:17
+142,Cesana Torinese Standard,Standard,Italy,Cesana Torinese,Piemonte,7014 Via della Libertà,10054,3,17127,Giada Parisi,397075820833,2024-03-18,2025-12-24 20:51:17
+143,Fradelo Superstore,Standard,Spain,Fradelo,Galicia,7941 Calle del General Mola,32557,4,15271,Concepción Herrera,346502020888,2019-07-30,2025-12-24 20:51:17
+144,Zandvoort Mall,Standard,Netherlands,Zandvoort,North Holland,6468 Veemkade,2042,7,13229,Rens Groot,311070692238,2023-12-03,2025-12-24 20:51:17
+145,Sandy Flagship,Flagship,United States,Sandy,Utah,3963 Henry Street,84093,4,9795,Ralph Richardson,16357961311,2019-06-26,2025-12-24 20:51:17
+146,Port-Cartier Standard,Flagship,Canada,Port-Cartier,Quebec,9872 St. George Street,G5B,4,44588,Wyatt Medina,17565555874,2022-02-27,2025-12-24 20:51:17
+147,Camps End Superstore,Flagship,United Kingdom,Camps End,England,9309 Tannery Lane,CB1,10,12849,Dennis Reid,447748164462,2017-07-12,2025-12-24 20:51:17
+148,Wallhausen Superstore,Superstore,Germany,Wallhausen,Baden-Württemberg,8149 Herder-Straße,74599,1,17588,Nora Scholz,498172745093,2022-10-11,2025-12-24 20:51:17
+149,Dompierre-sur-Authie Outlet,Standard,France,Dompierre-sur-Authie,Hauts-de-France,9144 Rue Danton,80150,4,11669,Brigitte Le Roux,332422273844,2024-04-07,2025-12-24 20:51:17
+150,Plenty Mall,Standard,Australia,Plenty,Tasmania,3705 Mary Street,7140,11,25016,Freya Brown,612145293085,2018-06-23,2025-12-24 20:51:17
